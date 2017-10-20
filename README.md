@@ -36,3 +36,6 @@ diff skillnad mellan filer:  diff file1 fil2
 Wc wordCount
 
 sort sorterar filer efter värde i raden
+
+
+grep letar efter ord  i filer: grep ordSomLetasEfter file1.log  (kan > till en annan textFile
