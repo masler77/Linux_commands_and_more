@@ -1,4 +1,24 @@
 # Linux_commands_and_more
+------------------------------------------------
+Git commands
+create git to remote (kode allready exists.
+git init
+git add .
+git commit -m "First commit"
+git remote add origin remote (repository URL)
+git remote -v
+
+git push origin remote
+--------------------------------------------------------
+Branch with git
+ git checkout -b (branch name)
+
+Merging
+Git checkout master (if merg is to master annars till branch tex dev)
+ git merge (branch).
+git push
+-----------------------------------------------------------------
+
 
 pwd visar vilken katalog man ståri
 
